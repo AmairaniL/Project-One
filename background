@@ -1,5 +1,5 @@
 <!doctype html> 
-<html> 
+<html lang="en"> 
 <head> 
 <meta charset="utf-8"> 
 <title> Background </title> </head> 
@@ -20,7 +20,7 @@
 
   <img src="Image\Family.jpg" alt="" height=550 width=350>
 <h3>Link to Index</h3>
-	<p><a href="Index.html">
+	<p><a href="index.html">
 Index</a></p>
 <body>
-</body></html>
+</body></html lang="en">
