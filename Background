@@ -1,1 +1,29 @@
+<!doctype html> 
+<html> 
+<head> 
+<meta charset="utf-8"> 
+<title> Background </title> </head> 
+<h1> Background </h1>
+<h2>About Me </h2>
+<h3>Major
+	<ul><li> Information Technology and Management</li></ul></h3>
+<h3>Hobbies
+	<ul><li>Dancing</li>
+	<li> Gunpla Building </li>
+	<li> Programming Events</li>
+	<li> Sports! </li></ul></h3>
+<h3>Family
+	<ul><li> Parents born in Mexico. </li>
+	<li> Oldest out of four. </li> 
+	<li> Have 2 sisters and a little brother. </li></ul></h3>
+</head>	
 
+  <img src="Image\Family.jpg" alt="" height=550 width=350>
+<h3>Link to Resume</h3>
+	<p><a href="page1.html">
+Professional Resume</a></p>
+<h3>Link to Index</h3>
+	<p><a href="Index.html">
+Index</a></p>
+<body>
+</body></html>
